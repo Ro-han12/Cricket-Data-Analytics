@@ -1,2 +1,2 @@
-# Cricket-Data-Analytics
-End To End Cricket Data Analytics Project
+# Olympics-Data-Analytics
+End To End Olympics Data Analytics Project
